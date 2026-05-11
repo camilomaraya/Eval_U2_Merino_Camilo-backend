@@ -4,6 +4,12 @@ Evaluación Sumativa Unidad 2 — API RESTful para gestión de clientes.
 
 ---
 
+## Video evidencia pruebas
+
+- https://youtu.be/Kqt75hovG2A
+
+---
+
 ## Requisitos previos
 
 - Docker Desktop instalado y corriendo
